@@ -1,4 +1,4 @@
-package com.sudheer.hakers.rank.multithreading.synchronization;
+package com.sudheer.multithreading.synchronization;
 
 import java.util.LinkedList;
 import java.util.Queue;
