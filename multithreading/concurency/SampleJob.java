@@ -1,4 +1,4 @@
-package com.sudheer.hakers.rank.multithreading.concurency;
+package com.sudheer.multithreading.concurency;
 
 import java.util.LinkedList;
 import java.util.Queue;
