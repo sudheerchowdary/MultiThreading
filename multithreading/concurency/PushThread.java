@@ -1,4 +1,4 @@
-package com.sudheer.hakers.rank.multithreading.concurency;
+package com.sudheer.multithreading.concurency;
 
 import java.util.Queue;
 import java.util.concurrent.locks.ReentrantLock;
